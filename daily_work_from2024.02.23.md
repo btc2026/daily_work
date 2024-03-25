@@ -4,6 +4,26 @@
 
 # 3月 
 
+## 3月26日 (共6条)
+
+今日(03.26)编译快讯13条，人工编译6条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | :-------------- |
+| 1    | [SEC 向 RIPPLE LABS 寻求 20亿美元的罚款和处罚](https://news.marsbit.co/flash/20240326034440196179.html) | 人工，首页&发推 |
+| 2    | [随着加密货币市场反弹，Solana 和 Avalanche 大幅上涨](https://news.marsbit.co/flash/20240326032505566584.html) |                 |
+| 3    | [Coinbase 国际交易所 3 月份日交易量创历史新高](https://news.marsbit.co/flash/20240326022708531233.html) | 人工            |
+| 4    | [菲律宾监管机构正在采取措施屏蔽用户访问币安](https://news.marsbit.co/flash/20240326022248647586.html) | 人工，首页&发推 |
+| 5    | [全球加密货币基金上周急剧下滑，投资者撤资 9.42 亿美元，创历史最高纪录](https://news.marsbit.co/flash/20240326021357818214.html) | 人工，首页&发推 |
+| 6    | [随着加密货币市场的繁荣，DAO 国债在 4 个月内增长超过 200 亿美元](https://news.marsbit.co/flash/20240326020838460250.html) |                 |
+| 7    | [截止至 3 月 25 日，Grayscale 减持了 5,507 枚比特币，价值约 3.829 亿美元](https://news.marsbit.co/flash/20240326015815097752.html) |                 |
+| 8    | [TrueFi 将推出代币化现实世界资产（RWA）借贷协议 Trinity](https://news.marsbit.co/flash/20240326013115450417.html) |                 |
+| 9    | [Ark Invest创新平台白皮书：公共区块链将推动金融生态重新配置](https://news.marsbit.co/flash/20240326013023248016.html) |                 |
+| 10   | [TrueFi推出基于美元的TRI代币用于RWA资产交易](https://news.marsbit.co/flash/20240326005321484982.html) |                 |
+| 11   | [FTX将出售三分之二的Anthropic股份，售价8.84亿美元](https://news.marsbit.co/flash/20240326002626379175.html) | 人工，首页&发推 |
+| 12   | [比特币突破70000美元，日内涨7.51%](https://news.marsbit.co/flash/20240326002028136678.html) | 人工            |
+| 13   | [The Sandbox：拟向Builders' Challenge奖励池新增50万枚SAND](https://news.marsbit.co/flash/20240326001826507701.html) |                 |
+
 ## 3月25日 (共6条)
 
 今日(03.25)编译快讯6条，人工编译3条
