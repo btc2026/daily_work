@@ -4,6 +4,20 @@
 
 # 3月 
 
+## 3月27日 (共7条)
+
+今日(03.27)编译快讯7条，人工编译3条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | :-------------- |
+| 1    | [Galaxy Digital CEO：比特币 ETF 的批准可能只是加密货币加速采用的开始](https://news.marsbit.co/flash/20240327035009121054.html) | 人工，首页&发推 |
+| 2    | [MicroStrategy 股价突破 1860 美元，创历史新高](https://news.marsbit.co/flash/20240327020544214133.html) | 人工            |
+| 3    | [美国检察官指控 KuCoin 及其两位创始人未能遵守美国反洗钱规则](https://news.marsbit.co/flash/20240327013653679675.html) | 人工            |
+| 4    | [保险经纪公司Marsh推出规模达8.25亿美元的加密货币托管保险产品](https://news.marsbit.co/flash/20240327011052057519.html) |                 |
+| 5    | [Optimism拟拨出8.5亿枚OP代币资助区块链建设者](https://news.marsbit.co/flash/20240327004030555584.html) | 首页 & 发推     |
+| 6    | [JDI Ventures向MXC基金会战略投资1000万美元](https://news.marsbit.co/flash/20240327003846400063.html) |                 |
+| 7    | [Angle Protocol推出美元稳定币USDA，拟于四月上线](https://news.marsbit.co/flash/20240327003409255708.html) |                 |
+
 ## 3月26日 (共13条)
 
 今日(03.26)编译快讯13条，人工编译6条
