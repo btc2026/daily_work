@@ -3,6 +3,21 @@
 
 
 # 3月 
+## 3月28日 (共9条)
+
+今日(03.28)编译快讯9条，人工编译3条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | :-------------- |
+| 1    | [Deribit 3 月份到期的比特币期权未平仓合约创下历史新高，达 95 亿美元](https://news.marsbit.co/flash/20240328035425377562.html) |                 |
+| 2    | [英国监管机构打击 Meme 币和加密货币影响者](https://news.marsbit.co/flash/20240328025029895522.html) | 人工，首页&发推 |
+| 3    | [9个现货比特币ETF今日增持3469枚BTC，价值2.4亿美元](https://news.marsbit.co/flash/20240328024326724271.html) | 首页&发推       |
+| 4    | [荷兰检察官寻求判处 Tornado Cash 开发者 Alexey Pertsev 64 个月监禁](https://news.marsbit.co/flash/20240328021352624301.html) | 人工            |
+| 5    | [分析师：ETHFI 的强劲价格表现可能会提振其他LRT代币的空投估值](https://news.marsbit.co/flash/20240328020030929426.html) |                 |
+| 6    | [GSR预测：以太坊现货 ETF 5 月获批几率降至 20%，有可能在 2025 年至 2026 年获得批准](https://news.marsbit.co/flash/20240328011143893860.html) | 人工，首页&发推 |
+| 7    | [Starknet Spring即将登陆Liquity](https://news.marsbit.co/flash/20240328005707330228.html) |                 |
+| 8    | [DeFi协议Unstable完成250万美元种子轮融资，Blockchain Founders Fund等参投](https://news.marsbit.co/flash/20240328004456432597.html) |                 |
+| 9    | [比特币二层网络BOB完成1000万美元种子轮融资，Castle Island Ventures领投](https://news.marsbit.co/flash/20240328004113895756.html) |                 |
 
 ## 3月27日 (共7条)
 
