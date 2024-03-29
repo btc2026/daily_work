@@ -3,6 +3,25 @@
 
 
 # 3月 
+
+## 3月30日 (共11条)
+
+今日(03.30)编译快讯11条，人工编译5条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | :-------------- |
+| 1    | [302 名受害者钱包盗取，被盗2,808 SOL价值约 52万美元，BONKbot 团队否认自身漏洞](https://news.marsbit.co/flash/20240330034418762555.html) | 人工，首页&发推 |
+| 2    | [1kx 在最新一轮融资中筹集了 7500 万美元](https://news.marsbit.co/flash/20240330032859988447.html) | 人工            |
+| 3    | [今日9个现货比特币ETF净增持3,037枚BTC，净流入约2.1亿美元](https://news.marsbit.co/flash/20240330031634221829.html) |                 |
+| 4    | [公链AirDAO已完成「回购和燃烧AMB」债券5,711,129枚](https://news.marsbit.co/flash/20240330030842754336.html) |                 |
+| 5    | [CFTC 将Litecoin称为与比特币和以太坊并列的商品后，Litecoin价格飙升11%](https://news.marsbit.co/flash/20240330024156233340.html) | 人工            |
+| 6    | [Bitwise CEO：今年的比特币减半可能是历史上影响最大的一次](https://news.marsbit.co/flash/20240330015218436372.html) |                 |
+| 7    | [Mfer创始人Sartoshi在Base链发行mfercoin](https://news.marsbit.co/flash/20240330012558122324.html) |                 |
+| 8    | [Sushi：EthTrader的ETH/DONUT新流动性池已上线](https://news.marsbit.co/flash/20240330010949066788.html) |                 |
+| 8    | [CFTC 官员：CFTC在 对KuCoin 指控中可能侵犯了 SEC 的权威](https://news.marsbit.co/flash/20240330010344770896.html) | 人工            |
+| 10   | [NetMind更新代币经济学：供应量削减至2亿枚以下，质押奖励将会调整](https://news.marsbit.co/flash/20240330002558173055.html) |                 |
+| 11   | [Glassnode：比特币ETF批准后目前已有价值约95亿美元BTC从主要交易所撤出](https://news.marsbit.co/flash/20240330001516552689.html) | 人工，首页&发推 |
+
 ## 3月29日 (共9条)
 
 今日(03.29)编译快讯9条，人工编译4条
