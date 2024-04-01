@@ -1,4 +1,24 @@
 # 4月 
+
+## 4月2日 
+
+今日(04.02)编译快讯12条，人工编译4条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | :-------------- |
+| 1    | [a16z 旗下月游戏基金Game Fund One将向多家初创公司投资 3000 万美元](https://news.marsbit.co/flash/20240402031239854274.html) | 人工，首页&发推 |
+| 2    | [币安在经历了变化和动荡的一年后首次任命了董事会](https://news.marsbit.co/flash/20240402025159884623.html) | 人工，首页&发推 |
+| 3    | [9只现货比特币ETF今日净增持1352枚BTC，约9230万美元](https://news.marsbit.co/flash/20240402023422760615.html) |                 |
+| 4    | [贝莱德和富达现货比特币ETF持仓总和已接近40万枚BTC](https://news.marsbit.co/flash/20240402013053284532.html) | 人工            |
+| 5    | [OpenAI允许用户无需注册即可使用ChatGPT](https://news.marsbit.co/flash/20240402012915193237.html) |                 |
+| 6    | [Munchables：已彻底重组团队，获得资金返还的用户将获得高倍数的游戏奖励](https://news.marsbit.co/flash/20240402012433276028.html) |                 |
+| 7    | [NFT游戏Crypto Unicorns将对XAI节点持有者进行空投](https://news.marsbit.co/flash/20240402005340996008.html) |                 |
+| 8    | [全球加密货币基金上周净流入近9亿美元](https://news.marsbit.co/flash/20240402004941691621.html) |                 |
+| 9    | [USDC Treasury新增铸造超1.34亿枚USDC](https://news.marsbit.co/flash/20240402004324079273.html) |                 |
+| 10   | [链上数据：Tether 第一季度持有近 8900 个比特币](https://news.marsbit.co/flash/20240402003739572859.html) | 人工            |
+| 11   | [Ethena Labs推出第二季活动Sats，预计到9月2日截止](https://news.marsbit.co/flash/20240402001715436874.html) |                 |
+| 12   | [ARKM短线突破2.65 USDT，1H涨幅5.6%](https://news.marsbit.co/flash/20240402001204695900.html) |                 |
+
 ## 4月1日 
 
 今日(04.01)编译快讯7条，人工编译7条
