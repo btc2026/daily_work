@@ -1,5 +1,23 @@
 # 4月 
 
+## 4月3日 
+
+今日(04.03)编译快讯11条，人工编译4条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | :-------------- |
+| 1    | [美联储梅斯特：仍预计美联储今年晚些时候可以降息](https://news.marsbit.co/flash/20240403001757188466.html) | 人工，首页&发推 |
+| 2    | [模块化L2区块链Camp Network完成400万美元种子轮融资，Maven 11领投](https://news.marsbit.co/flash/20240403005025643652.html) |                 |
+| 3    | [灰度于1小时前再次向Coinbase Prime转入1364枚BTC](https://news.marsbit.co/flash/20240403005118057871.html) |                 |
+| 4    | [Blast生态衍生品交易平台DTX宣布上线Ethena（ENA）永续合约交易](https://news.marsbit.co/flash/20240403005518617889.html) |                 |
+| 5    | [Celestia 为 Arbitrum Orbit 链带来 Blobstream 解决方案](https://news.marsbit.co/flash/20240403011135075766.html) | 人工            |
+| 6    | [Renzo：4月3日9:00前用户每存入1 ETH可获100 ezPoints](https://news.marsbit.co/flash/20240403011638003821.html) |                 |
+| 7    | [美国政府将没收的价值约 20亿美元的BTC转出，2000 BTC已转入Coinbase Prime钱包](https://news.marsbit.co/flash/20240403013958552187.html) | 人工，首页&发推 |
+| 8    | [IoTeX生态完成5000万美元融资，Borderless Capital、Amber Group等参投](https://news.marsbit.co/flash/20240403015053699757.html) |                 |
+| 9    | [稳定币发行商 Agora 种子轮筹集了 1200 万美元，风险投资公司 Dragonfly 领投](https://news.marsbit.co/flash/20240403015658755894.html) | 人工            |
+| 10   | [美SEC 专员 Hester Peirce 谴责 SAB 121 并批评其机构的监管方法](https://news.marsbit.co/flash/20240403025307329359.html) |                 |
+| 11   | [3月份加密行业融资额超过11.6亿美元，为过去 12 个月来第二高](https://news.marsbit.co/flash/20240403032105326364.html) |                 |
+
 ## 4月2日 
 
 今日(04.02)编译快讯12条，人工编译4条
