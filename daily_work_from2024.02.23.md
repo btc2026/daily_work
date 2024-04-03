@@ -1,4 +1,22 @@
 # 4月 
+## 4月4日 
+
+今日(04.04)编译快讯12条，人工编译6条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | :-------------- |
+| 1    | [Vana 新平台Reddit Data DAO，允许用户投票决定如何处理Reddit 数据](https://news.marsbit.co/flash/20240404034049746197.html) | 人工            |
+| 2    | [Galaxy 计划为首个加密货币风险基金筹集 1 亿美元](https://news.marsbit.co/flash/20240404030404185024.html) | 人工，首页&发推 |
+| 3    | [3月份现货比特币ETF交易量1110亿美元，较2月份增长163%](https://news.marsbit.co/flash/20240404022659875380.html) | 人工            |
+| 4    | [比特币网络超过1小时未出块](https://news.marsbit.co/flash/20240404021941008545.html) |                 |
+| 5    | [一季度因私钥泄露导致约2.5亿美元损失](https://news.marsbit.co/flash/20240404014411146984.html) | 人工，首页&发推 |
+| 6    | [加密游戏Hychain Games获800万美元节点销售收入，将推出封闭测试版](https://news.marsbit.co/flash/20240404012509605921.html) |                 |
+| 7    | [Zeus Network 已筹集 800 万美元资金，并将于 4 月 4 日推出其代币LFG Launchpad](https://news.marsbit.co/flash/20240404012023645214.html) | 人工            |
+| 8    | [美联储主席鲍威尔：大多数FOMC成员认为今年某个时点适合降低政策利率](https://news.marsbit.co/flash/20240404005311207769.html) |                 |
+| 9    | [Solana生态流动性质押协议Sanctum完成种子轮扩展融资，Dragonfly领投](https://news.marsbit.co/flash/20240404003012492027.html) |                 |
+| 10   | [Tether Treasury新增铸造10亿枚USDT](https://news.marsbit.co/flash/20240404002255476823.html) |                 |
+| 11   | [ENA短线触1.25USDT，24H涨幅75.8%](https://news.marsbit.co/flash/20240404001943574426.html) | 人工            |
+| 12   | [距离BCH减半已不足3小时](https://news.marsbit.co/flash/20240404001704231634.html) |                 |
 
 ## 4月3日 
 
