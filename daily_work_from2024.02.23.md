@@ -1,4 +1,21 @@
 # 4月 
+## 4月5日
+
+今日(04.05)编译快讯10条，人工编译5条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | :-------------- |
+| 1    | [美联储Neel Kashkari：若通胀进展停滞，美联储今年可能不会降息](https://news.marsbit.co/flash/20240405035145465751.html) | 人工，首页&发推 |
+| 2    | [Coinbase获得加拿大注册许可，为加拿大第一家注册的加密货币交易所](https://news.marsbit.co/flash/20240405031731170120.html) | 人工，首页&发推 |
+| 3    | [链上市场和白标解决方案提供商 BonusBlock 完成230万美元融资，Laser Digital等参投](https://news.marsbit.co/flash/20240405025804630123.html) |                 |
+| 4    | [BTC短线突破69000 USDT，24H涨幅5.0%](https://news.marsbit.co/flash/20240405020227397763.html) | 人工，首页      |
+| 5    | [Coinbase International和Coinbase Advanced将上线ORDI、WLD永续合约交易](https://news.marsbit.co/flash/20240405015448488064.html) | 人工，首页      |
+| 6    | [Ellipsis Labs在A轮融资中筹集 2000 万美元，Paradigm领投](https://news.marsbit.co/flash/20240405014517552896.html) |                 |
+| 7    | [CryptoQuant数据：比特币交易储备跌至2021年以来最低水平](https://news.marsbit.co/flash/20240405012229208090.html) | 人工，首页&发推 |
+| 8    | [Brevan Howard Digital和Galaxy Digital已分别向Alliance Fund III投资1000万美元](https://news.marsbit.co/flash/20240405010329987428.html) |                 |
+| 9    | [BTC短线突破68000 USDT，24H涨幅2.54%](https://news.marsbit.co/flash/20240405003431508306.html) |                 |
+| 10   | [比特币 L2 Zulu Network完成300万美元Pre-Seed轮融资，CatcherVC等参投](https://news.marsbit.co/flash/20240405002154270322.html) |                 |
+
 ## 4月4日 
 
 今日(04.04)编译快讯12条，人工编译6条
