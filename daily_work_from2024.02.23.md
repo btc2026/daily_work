@@ -1,4 +1,21 @@
 # 4月 
+
+## 4月6日
+
+今日(04.06)编译快讯9条，人工编译4条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | :-------------- |
+| 1    | [Terraform 联合创始人 Do Kwon 被判民事欺诈](https://news.marsbit.co/flash/20240406035457569700.html) | 人工            |
+| 2    | [贝莱德新增花旗、Citadel 和高盛等5家公司为其现货比特币ETF的授权参与者](https://news.marsbit.co/flash/20240406025738563612.html) |                 |
+| 3    | [FTX以64 美元的折扣价格出售3000 万枚锁定SOL，价值 19 亿美元](https://news.marsbit.co/flash/20240406023953313931.html) |                 |
+| 4    | [Cyvers Alerts：BXH黑客在时隔 545 天后将300枚ETH转至Tornado Cash](https://news.marsbit.co/flash/20240406022505555542.html) |                 |
+| 5    | [摩根大通: SEC最终将批准以太坊 ETF 现货](https://news.marsbit.co/flash/20240406010148921803.html) | 人工，首页&发推 |
+| 6    | [德意志交易所已上市资管公司DWS比特币与以太坊ETC产品](https://news.marsbit.co/flash/20240406003714585677.html) | 人工            |
+| 7    | [Web3社交模拟游戏Today完成500万美元种子轮融资，Sfermion等领投](https://news.marsbit.co/flash/20240406002709958659.html) |                 |
+| 8    | [Hifi Finance对RWA框架进行改进，拟支持处理更多抵押品](https://news.marsbit.co/flash/20240406002638858250.html) |                 |
+| 9    | [Conflux宣布推出开发者大使计划](https://news.marsbit.co/flash/20240406001612245846.html) | 人工，首页&发推 |
+
 ## 4月5日
 
 今日(04.05)编译快讯10条，人工编译5条
