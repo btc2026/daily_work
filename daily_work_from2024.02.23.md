@@ -1,4 +1,24 @@
 # 4月
+## 4月9日
+
+今日(04.09)编译快讯13条，人工编译4条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | :-------------- |
+| 1    | [2024年底加密货币市值将翻倍至5万亿美元](https://news.marsbit.co/flash/20240409001620416762.html) | 人工，首页&发推 |
+| 2    | [4 月底到期的以太坊期权未平仓合约暗示看涨情绪](https://news.marsbit.co/flash/20240409002541899285.html) |                 |
+| 3    | [减半前比特币飙升提振 Coinbase 和 MicroStrategy 股价](https://news.marsbit.co/flash/20240409004130317612.html) |                 |
+| 4    | [币安理财、闪兑、杠杆、合约上线Tensor（TNSR）](https://news.marsbit.co/flash/20240409005001347692.html) |                 |
+| 5    | [dYdX：dYdX Chain恢复出块](https://news.marsbit.co/flash/20240409005918431265.html) |                 |
+| 6    | [ETH314上线涨幅超过70%](https://news.marsbit.co/flash/20240409011029153993.html) |                 |
+| 7    | [Manta Network公布加速计划zk Accelerator Program首批9个入选项目](https://news.marsbit.co/flash/20240409015630120170.html) |                 |
+| 8    | [memecoin 发布和交易平台 Pump.fun 收入](https://news.marsbit.co/flash/20240409021652801325.html) | 人工            |
+| 9    | [DeFi 公司 1inch 与 Mastercard 和 Baanx 合作推出 Web3 借记卡](https://news.marsbit.co/flash/20240409022335927908.html) | 人工            |
+| 10   | [美国九只现货比特币ETF今日净流入约2.98亿美元](https://news.marsbit.co/flash/20240409025507357602.html) |                 |
+| 11   | [ETH突破3700 USDT，24H涨幅9.7%](https://news.marsbit.co/flash/20240409025529483123.html) |                 |
+| 12   | [贝莱德和富达的现货比特币ETF 连续 59 天流入资金，跻身历史前20名ETF](https://news.marsbit.co/flash/20240409025811697631.html) |                 |
+| 13   | [法定货币正在加速进入加密货币领域](https://news.marsbit.co/flash/20240409033453296323.html) | 人工            |
+
 ## 4月7日
 
 今日(04.07)编译快讯4条，人工编译3条
