@@ -1,4 +1,23 @@
 # 4月
+## 4月10日
+
+今日(04.010)编译快讯12条，人工编译7条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | :-------------- |
+| 1    | [Bitfinex：比特币减半将推动价格上涨至 150,000 美元至 169,000 美元](https://news.marsbit.co/flash/20240410034730769799.html) | 人工，首页&发推 |
+| 2    | [主网上线和币安上市后 Saga 代币高度波动](https://news.marsbit.co/flash/20240410031150740854.html) | 人工，首页&发推 |
+| 3    | [a16z Crypto发布zkEVM解决方Jolt，利用SNARK为EVM兼容Rollups提供框架](https://news.marsbit.co/flash/20240410000930935815.html) |                 |
+| 4    | [Coinbase将上线Shadow Token (SHDW)](https://news.marsbit.co/flash/20240410001040099014.html) |                 |
+| 5    | [web3 机构贷款和收益产品平台OpenTrade 获得320万美元种子轮融资](https://news.marsbit.co/flash/20240410001556763495.html) | 人工，          |
+| 6    | [比特币长期持有者获利返回放缓](https://news.marsbit.co/flash/20240410005104858978.html) | 人工            |
+| 7    | [联邦检察官表示，DeFi 交易员艾森伯格“不是在借钱，而是在偷窃”](https://news.marsbit.co/flash/20240410011333787424.html) | 人工，首页&发推 |
+| 8    | [NFTfi基金会公布NFTFI代币经济学细节                          | 首页&发推       |
+| 9    | [Portal DeFi 拟将 Stacks 集成到 Portal DEX并启用跨链 sBTC 交易](https://news.marsbit.co/flash/20240410014832230394.html) |                 |
+| 10   | [美国两党呼吁解决与加密货币相关的非法融资问题](https://news.marsbit.co/flash/20240410020133739197.html) | 人工            |
+| 11   | [近13亿枚PYTH处于质押状态](https://news.marsbit.co/flash/20240410021545681318.html) |                 |
+| 12   | [EigenLayer 和 EigenDA 在以太坊主网上推出](https://news.marsbit.co/flash/20240410023129771040.html) | 人工            |
+
 ## 4月9日
 
 今日(04.09)编译快讯13条，人工编译4条
