@@ -1,4 +1,24 @@
 # 4月
+## 4月11日
+
+今日(04.011)编译快讯13条，人工编译5条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | :-------------- |
+| 1    | [BTC重回70000 ，24H涨幅1.51%](https://news.marsbit.co/flash/20240411040025572097.html) | 人工，首页&发推 |
+| 2    | [UNISWAP 因其未注册交易所将被 SEC 起诉](https://news.marsbit.co/flash/20240411035358298356.html) | 人工，首页&发推 |
+| 3    | [现货比特币ETF4月10日净流出约1.877亿美元](https://news.marsbit.co/flash/20240411033337111360.html) |                 |
+| 4    | [SEC 将对 Uniswap 提起诉讼，并向该公司发出威尔斯通知（Wells Notice）](https://news.marsbit.co/flash/20240411030430119859.html) | 人工，首页&发推 |
+| 5    | [美联储会议纪要：股市上涨抵消了利率上升的影响](https://news.marsbit.co/flash/20240411022107596572.html) |                 |
+| 6    | [美联储会议纪要：在今年某个时候转向限制性较小的政策立场是合适的](https://news.marsbit.co/flash/20240411020834829877.html) |                 |
+| 7    | [美国总统拜登：降息可能会推迟一个月，在年底前会有降息](https://news.marsbit.co/flash/20240411014959571746.html) | 人工，首页&发推 |
+| 8    | [FBTC流通股超1.72亿份， 净资产升至101.7亿美元](https://news.marsbit.co/flash/20240411012225860472.html) |                 |
+| 9    | [BNB短时突破600 USDT，24H涨幅5.08%](https://news.marsbit.co/flash/20240411005410429671.html) |                 |
+| 10   | [BTC重回69000 USDT上方，24H涨幅0.49%](https://news.marsbit.co/flash/20240411004800772362.html) |                 |
+| 11   | [币安首席合规官：正尽最大努力与尼日利亚合作以确保被监禁的高管获释](https://news.marsbit.co/flash/20240411004637701209.html) |                 |
+| 12   | [Canto推出超额抵押稳定币NOTE](https://news.marsbit.co/flash/20240411003109813380.html) | 人工，首页&发推 |
+| 13   | [加密货币基金 Brevan Howard Digital 第一季度上涨 至 17 亿美元](https://news.marsbit.co/flash/20240411001446852741.html) |                 |
+
 ## 4月10日
 
 今日(04.010)编译快讯12条，人工编译7条
