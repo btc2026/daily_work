@@ -1,4 +1,23 @@
 # 4月
+
+## 4月12日
+
+今日(04.012)编译快讯11条，人工编译6条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | :-------------- |
+| 1    | [FTX 前首席执行官 SBF 对定罪和判刑提出上诉](https://news.marsbit.co/flash/20240412025822085908.html) | 人工，首页&发推 |
+| 2    | [De.Fi：已销毁1200万枚DEFI代币，将继续执行销毁计划](https://news.marsbit.co/flash/20240412024230005449.html) |                 |
+| 3    | [以太坊核心开发者会议透露下一次升级（Pectra ）可能的内容及升级时间](https://news.marsbit.co/flash/20240412023908673396.html) | 人工，首页&发推 |
+| 4    | [美国现货比特币ETF今日净流入约520万美元](https://news.marsbit.co/flash/20240412020939851833.html) |                 |
+| 5    | [美国道明（TD bank）银行子公司发布商业广告解释 Bitcoin减半，并推广现货比特币 ETF](https://news.marsbit.co/flash/20240412020515594406.html) | 人工，首页&发推 |
+| 6    | [贝莱德在彭博社首页上启动 Bitcoin ETF 广告活动](https://news.marsbit.co/flash/20240412015221397535.html) | 人工            |
+| 7    | [兼容 Worldcoin 的World App钱包用户超过 1000 万](https://news.marsbit.co/flash/20240412013401612769.html) | 人工            |
+| 8    | [某地址以 9000 美元买入Meme币APU，1个月收益达 693 倍](https://news.marsbit.co/flash/20240412010707511457.html) |                 |
+| 9    | [Circle 支持贝莱德 BUIDL 持有者转换为USDC](https://news.marsbit.co/flash/20240412005724200656.html) | 人工            |
+| 10   | [Chainlink推出跨链应用Transporter，首轮将接入8个网络](https://news.marsbit.co/flash/20240412003637401235.html) |                 |
+| 11   | [美联储Collins：美联储降息并不紧迫](https://news.marsbit.co/flash/20240412002733421197.html) | 首页，发推      |
+
 ## 4月11日
 
 今日(04.011)编译快讯13条，人工编译5条
