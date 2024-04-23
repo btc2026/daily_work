@@ -1,5 +1,21 @@
 # 4月
+## 4月24日
 
+今日(04.24)编译快讯11条，人工编译6条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | :-------------- |
+| 1    | [渣打银行表示 SEC 不太可能在 5 月份批准现货以太坊 ETF](https://news.marsbit.co/flash/20240424031406606874.html) | 人工，首页&发推 |
+| 2    | [Salvador 比特币钱包源代码、VPN 访问泄露](https://news.marsbit.co/flash/20240424030635681767.html) |                 |
+| 3    | [某地址获得740,383枚SAFE空投，已售出550,383枚](https://news.marsbit.co/flash/20240424025440214262.html) |                 |
+| 4    | [美国证券交易委员会称Do Kwon、Terraform Labs 应被处以 5.3B 美元罚款](https://news.marsbit.co/flash/20240424024437595046.html) |                 |
+| 5    | [比特币在杠杆率较低的市场中仍有上涨空间](https://news.marsbit.co/flash/20240424022250239300.html) | 人工            |
+| 6    | [Mt.Gox近期将向债权人返还90亿美元的BTC，或给比特币价格带来压力](https://news.marsbit.co/flash/20240424015426222190.html) | 人工，首页&发推 |
+| 7    | [美SEC推迟对灰度以太坊信托转换为ETF的申请做出决议](https://news.marsbit.co/flash/20240424012351944403.html) | 人工，首页&发推 |
+| 8    | [去中心化人工智能公司 Prime Intellect 筹集 550 万美元种子资金](https://news.marsbit.co/flash/20240424005217501411.html) | 人工            |
+| 9    | [ENS宣布集成浏览器兼容的“.box”域名](https://news.marsbit.co/flash/20240424002442087992.html) |                 |
+| 10   | [Coinbase： KARRAT-USD交易对已处于全面交易模式](https://news.marsbit.co/flash/20240424002314117840.html) |                 |
+| 11   | [美SEC推迟对富兰克林现货以太坊ETF申请做出决议](https://news.marsbit.co/flash/20240424001532534780.html) | 人工            |
 ## 4月23日
 
 今日(04.23)编译快讯8条，人工编译5条
