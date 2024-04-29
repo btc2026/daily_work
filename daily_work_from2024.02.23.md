@@ -1,4 +1,20 @@
 # 4月
+## 4月30日
+
+今日(04.29)编译快讯10条，人工编译4条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | :-------------- |
+| 1    | [FTX债务人与破产公司Voyager Digital达成4.5亿美元和解协议](https://news.marsshare.cc/flash/20240430045722549455.html) | 人工，首页&发推 |
+| 2    | [MicroStrategy在4月份购买了122枚BTC](https://news.marsshare.cc/flash/20240430045625503907.html) | 人工，首页      |
+| 3    | [澳大利亚今年将迎来一波比特币 ETF 发行潮](https://news.marsshare.cc/flash/20240430034155434509.html) | 人工，首页&发推 |
+| 4    | [摩根大通：美股很可能重蹈去年8月夏末的覆辙](https://news.marsshare.cc/flash/20240430025405259862.html) |                 |
+| 5    | [欧洲央行管委诺特：在6月降息之后必须谨慎](https://news.marsshare.cc/flash/20240430022934213291.html) | 人工，首页&发推 |
+| 6    | [TD Cowen：Consensys 与 SEC 关于以太坊是否是证券的诉讼“将需要数年时间”](https://news.marsshare.cc/flash/20240430013806066526.html) |                 |
+| 7    | [EigenLayer拟于5月10日开启代币申领](https://news.marsshare.cc/flash/20240430011755593569.html) |                 |
+| 8    | [Coinbase将在 Solana 网络上添加对Neon EVM (NEON) 的支持](https://news.marsshare.cc/flash/20240430011640014342.html) |                 |
+| 9    | [MetaWin创始人Skel.eth在Base链上推出Meme币ROCKY](https://news.marsshare.cc/flash/20240430011557823206.html) |                 |
+| 10   | [Eigenlayer在GitHub上发布白皮书描述EIGEN代币结构](https://news.marsshare.cc/flash/20240430011511365041.html) |                 |
 ## 4月29日
 
 今日(04.29)编译快讯4条，人工编译4条
