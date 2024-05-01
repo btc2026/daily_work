@@ -1,4 +1,55 @@
+# 5月
+
+## 5月2日
+
+今日(05.02)编译快讯13条，人工编译3条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | :-------------- |
+| 1    | [Wormhole公布ZK技术路线图                                    |                 |
+| 2    | [VanEck：目前各种ETF、国家以及公司持有的比特币价值总计约1750亿美元](https://news.marsshare.cc/flash/20240502040503215931.html) |                 |
+| 3    | [鲍威尔暗示：失业率必须涨超0.2个百分点才会促使美联储降息](https://news.marsshare.cc/flash/20240502035918650863.html) | 人工，首页&发推 |
+| 4    | [美股三大股指涨幅收窄，道指涨0.6%，纳指涨0.34%，标普500指数涨0.12%](https://news.marsshare.cc/flash/20240502034603014244.html) |                 |
+| 5    | [鲍威尔：对今年是否会降息没有太大的信心](https://news.marsshare.cc/flash/20240502033502226493.html) |                 |
+| 6    | [美联储主席鲍威尔：下一次政策利率调整不太可能是加息](https://news.marsshare.cc/flash/20240502030347477377.html) | 首页&发推       |
+| 7    | [加密货币反弹，BTC反弹突破59000 USDT，ETH突破 3000 USDT](https://news.marsshare.cc/flash/20240502025939060396.html) |                 |
+| 8    | [美联储维持利率不变](https://news.marsshare.cc/flash/20240502022404373714.html) | 人工，首页&发推 |
+| 9    | [分析师：不断推迟的降息预期致使比特币价格出现暴跌](https://news.marsshare.cc/flash/20240502014128646083.html) | 人工，首页      |
+| 10   | [Zeus Network：ZPL拟于三季度应用于BTC、Runes和Ordinals](https://news.marsshare.cc/flash/20240502012800545526.html) |                 |
+| 11   | [巴克莱：英国央行可能下调中期通胀预期，维持近期通胀预期不变](https://news.marsshare.cc/flash/20240502012206635430.html) |                 |
+| 12   | [Coinbase：NEON-USD和SAFE-USD交易对现已处于全面交易模式](https://news.marsshare.cc/flash/20240502010424519640.html) |                 |
+| 13   | [Web3游戏公司Games for a Living完成5亿日元(330万美元)融资](https://news.marsshare.cc/flash/20240502010110170562.html) |                 |
+
+## 5月1日
+
+今日(05.01)编译快讯21条，人工编译16条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | :-------------- |
+| 1    | [CZ量刑听证会, 公众对本次判决兴趣较低](https://news.marsshare.cc/flash/20240501010259826047.html) | 人工，首页&发推 |
+| 2    | [CZ量刑听证会：琼斯法官基本同意缓刑办公室的意见](https://news.marsshare.cc/flash/20240501011741645893.html) | 人工，首页&发推 |
+| 3    | [CZ量刑听证会：司法部律师表示缓刑将激励其他人违法](https://news.marsshare.cc/flash/20240501012054863621.html) | 人工，首页&发推 |
+| 4    | [CZ量刑听证会：法官对司法部延长刑期的理由持怀疑态度](https://news.marsshare.cc/flash/20240501012431485467.html) | 人工，首页&发推 |
+| 5    | [CZ量刑听证会：缓刑办公室建议判处 5 个月监禁](https://news.marsshare.cc/flash/20240501012955740106.html) | 人工，首页&发推 |
+| 6    | [CZ量刑听证会：另一位辩护律师出庭，开始打感情牌](https://news.marsshare.cc/flash/20240501013542084663.html) | 人工，首页&发推 |
+| 7    | [CZ量刑听证会：法官建议缓刑5个月，辩护律师同意](https://news.marsshare.cc/flash/20240501014013279462.html) | 人工，首页&发推 |
+| 8    | [CZ量刑听证会：CZ的辩护律师提出三年期限的要求太过分](https://news.marsshare.cc/flash/20240501015417622436.html) | 人工，首页&发推 |
+| 9    | [CZ量刑听证会：法官：Binance对美元造成的影响是前所未有的](https://news.marsshare.cc/flash/20240501020705074975.html) | 人工，首页&发推 |
+| 10   | [受ETF需求冷却影响，比特币创下FTX崩盘以来最差单月表现](https://news.marsshare.cc/flash/20240501021443995984.html) |                 |
+| 11   | [CZ量刑听证会：CZ案律师在辩护中多次提及某不可明说的秘密事项](https://news.marsshare.cc/flash/20240501022235745260.html) | 人工，首页&发推 |
+| 12   | [CZ量刑听证会：法官倾向于不再关注新证据](https://news.marsshare.cc/flash/20240501022921891070.html) | 人工，首页&发推 |
+| 13   | [加密货币股票遭抛售](https://news.marsshare.cc/flash/20240501024050624822.html) |                 |
+| 14   | [CZ量刑听证会：听证会期间有人拍了一张照片并将其发布到推特上，法官对此很恼火](https://news.marsshare.cc/flash/20240501024602839687.html) | 人工，首页&发推 |
+| 15   | [CZ量刑听证会：CZ发言，想为自己的“错误”承担责任](https://news.marsshare.cc/flash/20240501025211095931.html) | 人工，首页&发推 |
+| 16   | [CZ量刑听证会：法官阅读了161封中的每一封信](https://news.marsshare.cc/flash/20240501025551914308.html) | 人工，首页&发推 |
+| 17   | [CZ量刑听证会：CZ 被判入狱 4 个月](https://news.marsshare.cc/flash/20240501030209315896.html) | 人工，首页&发推 |
+| 18   | [BTC跌破60000 USDT，24H跌幅5.18%](https://news.marsshare.cc/flash/20240501035401803551.html) | 人工，首页&发推 |
+| 19   | [过去24小时全网爆仓3.68亿美元](https://news.marsshare.cc/flash/20240501035856428820.html) |                 |
+| 20   | [美股三大指数均大幅收跌](https://news.marsshare.cc/flash/20240501040735905715.html) |                 |
+| 21   | [Coinbase正式集成比特币闪电网络](https://news.marsshare.cc/flash/20240501042815269629.html) |                 |
+
 # 4月
+
 ## 4月30日
 
 今日(04.29)编译快讯10条，人工编译4条
@@ -1202,5 +1253,4 @@ memecoin ？
 | 10   | [FTX获批出售10亿美元Anthropic股份](https://news.marsbit.co/flash/20240224031235693258.html) |                                                              | **人工** |
 | 11   | [新的自由职业者市场 Plebwork 推出，用户可以通过比特币获得报酬](https://news.marsbit.co/flash/20240224032749431061.html) | https://bitcoinmagazine.com/business/new-freelance-marketplace-launches-where-users-get-paid-in-bitcoin | **人工** |
 | 12   | [Ethena获得5%的以太坊永续期货未平仓合约，创始人淡化担忧](https://news.marsbit.co/flash/20240224035711869027.html) | https://www.theblock.co/post/278802/ethena-eth-perpetual-futures-open-interest-risk | **人工** |
-
 
