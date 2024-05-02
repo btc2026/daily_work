@@ -1,5 +1,25 @@
 # 5月
 
+## 5月3日
+
+今日(05.03)编译快讯13条，人工编译5条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | :-------------- |
+| 1    | [MR.100今日逢低积极买入 4000 BTC](https://news.marsshare.cc/flash/20240503045914446062.html) | 人工，首页&发推 |
+| 2    | [ZkSnack将于6月1日关闭其CoinJoin混币服务](https://news.marsshare.cc/flash/20240503043452757055.html) |                 |
+| 3    | [摩根大通：近期加密货币市场抛售是由散户投资者推动的](https://news.marsshare.cc/flash/20240503042254581139.html) |                 |
+| 4    | [SEC要求处罚 Terraform Labs 支付数十亿美元，Terraform Labs 的律师对 SEC 进行了反击](https://news.marsshare.cc/flash/20240503035523159390.html) | 人工，首页&发推 |
+| 5    | [Tether与Chainalysis 合作开发用于监控二级市场活动的可定制解决方案](https://news.marsshare.cc/flash/20240503033019913916.html) |                 |
+| 6    | [Magic Eden宣布其BTC Diamond Retro申领已上线](https://news.marsshare.cc/flash/20240503025656067987.html) |                 |
+| 7    | [以太坊 NFT 4 月份销售额 2.41 亿美元，为2023 年 10 月以来最低](https://news.marsshare.cc/flash/20240503023818235465.html) | 人工，首页&发推 |
+| 8    | [离岸人民币兑美元日内涨幅达0.5%，现报7.1977](https://news.marsshare.cc/flash/20240503022411073864.html) | 人工            |
+| 9    | [Jito 成为 Solana 上TVL最大的协议， 达 14 亿美元](https://news.marsshare.cc/flash/20240503021006698439.html) |                 |
+| 10   | [Warren敦促打击伊朗“利润日益丰厚”的比特币开采](https://news.marsshare.cc/flash/20240503020732887908.html) |                 |
+| 11   | [USDC Treasury新增铸造5000万枚USDC](https://news.marsshare.cc/flash/20240503011035315125.html) |                 |
+| 12   | [某以太坊ICO参与者在休眠8.8年后转出1,960枚ETH，价值587万美元](https://news.marsshare.cc/flash/20240503010829914462.html) | 人工            |
+| 13   | [ENS：已申请要求美国专利商标局质疑Unstoppable Domains开源技术专利有效性](https://news.marsshare.cc/flash/20240503010437630716.html) |                 |
+
 ## 5月2日
 
 今日(05.02)编译快讯13条，人工编译3条
