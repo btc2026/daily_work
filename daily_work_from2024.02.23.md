@@ -1,5 +1,24 @@
 # 5月
 
+## 5月4日
+
+今日(05.04)编译快讯12条，人工编译7条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | :-------------- |
+| 1    | [美国财长耶伦：基本面仍然指向通胀放缓](https://news.marsshare.cc/flash/20240504045841480667.html) |                 |
+| 2    | [BTC突破63000美元，24H涨幅7.2%](https://news.marsshare.cc/flash/20240504045347632378.html) | 人工，首页      |
+| 3    | [ETH突破3100 USDT，24H涨幅4.07%](https://news.marsshare.cc/flash/20240504042939228627.html) | 人工，首页      |
+| 4    | [Coinbase国际：第一季度合约交易量超过760亿美元](https://news.marsshare.cc/flash/20240504040855332487.html) | 人工，首页&发推 |
+| 5    | [继昨日买入4000枚BTC后，神秘地址"Mr. 100" 今日继续买入 200 枚 BTC](https://news.marsshare.cc/flash/20240504040634875227.html) | 人工，首页&发推 |
+| 6    | [BTC突破62000 USDT，24H涨幅4.64%](https://news.marsshare.cc/flash/20240504040034814667.html) | 人工，首页&发推 |
+| 7    | [美国就业报告疲软后，加密货币反弹](https://news.marsshare.cc/flash/20240504031214097042.html) | 人工            |
+| 8    | [受将发新币消息影响，MKR短线突破2900 USDT，24H涨幅6.21%](https://news.marsshare.cc/flash/20240504025028408215.html) |                 |
+| 9    | [MakerDAO将推出新代币NewStable和NewGovToken，NewGovToken将成为新的治理代币](https://news.marsshare.cc/flash/20240504014805327084.html) |                 |
+| 10   | [LayerZero：5月17日前需自行报告女巫地址](https://news.marsshare.cc/flash/20240504012348261574.html) |                 |
+| 11   | [BTC触及 6.2 万美元](https://news.marsshare.cc/flash/20240504011302262566.html) | 人工            |
+| 12   | [DEGEN突破0.023 USDT，24H涨幅34.07%](https://news.marsshare.cc/flash/20240504010305158122.html) |                 |
+
 ## 5月3日
 
 今日(05.03)编译快讯13条，人工编译5条
