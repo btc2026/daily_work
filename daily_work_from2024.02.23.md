@@ -1,5 +1,18 @@
 # 5月
 
+## 5月5日
+
+今日(05.05)编译快讯6条，人工编译2条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | :-------------- |
+| 1    | [Solana区块链TVL突破40亿美元](https://news.marsshare.cc/flash/20240505040512431557.html) |                 |
+| 2    | [BTC突破64000 USDT，日内涨幅达到3.58%](https://news.marsshare.cc/flash/20240505040423242431.html) | 人工，首页&发推 |
+| 3    | [829枚BTC从Coinbase转移到未知钱包](https://news.marsshare.cc/flash/20240505033049143195.html) |                 |
+| 4    | [Evan Cheng：加密货币的“ChatGPT 时刻”即将到来](https://news.marsshare.cc/flash/20240505023146250524.html) | 人工，首页&发推 |
+| 5    | [DeFi协议Amphor完成400万美元种子轮融资](https://news.marsshare.cc/flash/20240505013538629539.html) |                 |
+| 6    | [动态模块化服务平台Crestal完成200万美元Pre-Seed轮融资，MH Ventures等参投](https://news.marsshare.cc/flash/20240505000331138439.html) |                 |
+
 ## 5月4日
 
 今日(05.04)编译快讯12条，人工编译7条
