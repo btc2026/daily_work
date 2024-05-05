@@ -1,5 +1,21 @@
 # 5月
 
+## 5月6日
+
+今日(05.06)编译快讯9条，人工编译3条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | --------------- |
+| 1    | [AI概念币普涨，ARKM 24H涨幅超17%](https://news.marsshare.cc/flash/20240506010433385136.html) |                 |
+| 2    | [Farcaster协议累计收入突破123万美元](https://news.marsshare.cc/flash/20240506020715536216.html) | 人工，首页&发推 |
+| 3    | [Jupiter：投票批准3个试验性工作组所要求的预算](https://news.marsshare.cc/flash/20240506022928107331.html) |                 |
+| 4    | [Tether于5月4日发行价值2.4亿美元的USDT，赎回价值860万美元的USDT](https://news.marsshare.cc/flash/20240506023020006395.html) |                 |
+| 5    | [某巨鲸从Compound累计借出1700万枚USDT](https://news.marsshare.cc/flash/20240506030300449662.html) |                 |
+| 6    | [Coinbase因涉嫌欺骗投资者而面临新的集体诉讼](https://news.marsshare.cc/flash/20240506030400287837.html) | 人工            |
+| 7    | [洛杉矶前市长已被聘请为Coinbase政策顾问](https://news.marsshare.cc/flash/20240506030513687560.html) |                 |
+| 8    | [2824万枚XRP从未知钱包转账至比特币交易所 Bitstamp](https://news.marsshare.cc/flash/20240506035714178315.html) |                 |
+| 9    | [Ordinals铭文累计费用收入超6800枚BTC](https://news.marsshare.cc/flash/20240506045213846311.html) | 人工，首页&发推 |
+
 ## 5月5日
 
 今日(05.05)编译快讯6条，人工编译2条
