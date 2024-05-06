@@ -1,5 +1,19 @@
 # 5月
 
+## 5月7日
+
+今日(05.07)编译快讯7条，人工编译2条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | --------------- |
+| 1    | [美股三大指数集体收涨](https://news.marsshare.cc/flash/20240507041555474620.html) | 人工，首页&发推 |
+| 2    | [以太坊开发者拟通过EIP-3074改进加密钱包的易用性](https://news.marsshare.cc/flash/20240507032904495053.html) |                 |
+| 3    | [BTC跌破63000 USDT，24H跌幅1.52%](https://news.marsshare.cc/flash/20240507031902247901.html) | 人工，首页&发推 |
+| 4    | [SEC已经对Robinhood的加密部门进行了一段时间调查](https://news.marsshare.cc/flash/20240507020211109017.html) |                 |
+| 5    | [Web3社交网络Bondex完成新一轮战略轮融资， DEXT Force Ventures参投](https://news.marsshare.cc/flash/20240507013345423456.html) |                 |
+| 6    | [德国国有开发银行KfW拟发行最小规模为1亿欧元的区块链数字债券](https://news.marsshare.cc/flash/20240507012745669915.html) |                 |
+| 7    | [5月6日9只比特币ETF总计增持3710枚比特币](https://news.marsshare.cc/flash/20240507012406779045.html) |                 |
+
 ## 5月6日
 
 今日(05.06)编译快讯9条，人工编译3条
