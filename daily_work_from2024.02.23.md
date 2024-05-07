@@ -1,4 +1,48 @@
+模板：
+
+| 序号 | 标题 | 备注            |
+| :--- | :--- | --------------- |
+| 1    |      | 人工，首页&发推 |
+| 2    |      |                 |
+| 3    |      |                 |
+| 4    |      |                 |
+| 5    |      |                 |
+| 6    |      |                 |
+| 7    |      |                 |
+| 8    |      |                 |
+| 9    |      |                 |
+| 10   |      |                 |
+| 11   |      |                 |
+| 12   |      |                 |
+| 13   |      |                 |
+| 14   |      |                 |
+| 15   |      |                 |
+
+
+
 # 5月
+
+## 5月8日
+
+今日(05.08)编译快讯15条，人工编译6条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | --------------- |
+| 1    | [前 NFL 巨星Rob Gronkowski同意支付 190 万美元以和解 Voyager Digital 投资者诉讼](https://news.marsshare.cc/flash/20240508042407369158.html) |                 |
+| 2    | [彭博分析师：灰度现货比特币ETF净流入可能是短期交易的结果](https://news.marsshare.cc/flash/20240508041609662042.html) | 人工，首页&发推 |
+| 3    | [资产管理公司 SIG 披露 13 亿美元的比特币 ETF 投资组合](https://news.marsshare.cc/flash/20240508034645082611.html) | 人工，首页&发推 |
+| 4    | [Rob Gronkowski 的加密货币先令或让他在诉讼中损失 190 万美元](https://news.marsshare.cc/flash/20240508031831219476.html) |                 |
+| 5    | [BTC短线跌破63000美元](https://news.marsshare.cc/flash/20240508031328149049.html) | 人工            |
+| 6    | [美两党在 SEC 处理 DEBT Box 和会计指南问题上存在分歧](https://news.marsshare.cc/flash/20240508024936298631.html) |                 |
+| 7    | [Advanced Blockchain AG在瑞士成立加密风投机构ABX Ventures](https://news.marsshare.cc/flash/20240508024252649455.html) |                 |
+| 8    | [路透社：Robinhood一季度收入或创近三年最高纪录](https://news.marsshare.cc/flash/20240508020845318059.html) | 人工            |
+| 9    | [美国国务院拟悬赏1000万美元以获取LockBit勒索软件组织头目信息](https://news.marsshare.cc/flash/20240508015934578001.html) |                 |
+| 10   | [Aragon 联合创始人推出自托管钱包 Tuyo](https://news.marsshare.cc/flash/20240508015710894022.html) |                 |
+| 11   | [美联储Neel Kashkar：今年仍有可能降息](https://news.marsshare.cc/flash/20240508015227629703.html) |                 |
+| 12   | [美国众议院民主党“打击”洗钱活动的目标是加密货币混合器](https://news.marsshare.cc/flash/20240508014547226855.html) |                 |
+| 13   | [Solana生态DePin项目Ambient完成200万美元融资，Borderless Capital 领投](https://news.marsshare.cc/flash/20240508013428398022.html) |                 |
+| 14   | [一聪明钱地址交易AGORA代币获得4906倍回报率](https://news.marsshare.cc/flash/20240508011555729330.html) | 人工，首页&发推 |
+| 15   | [前红杉中国合伙人曹曦旗下砺思资本已向贝莱德比特币ETF投资2400万美元](https://news.marsshare.cc/flash/20240508011030387076.html) | 人工            |
 
 ## 5月7日
 
