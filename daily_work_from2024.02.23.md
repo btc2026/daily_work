@@ -22,6 +22,21 @@
 
 # 5月
 
+## 5月9日
+
+今日(05.09)编译快讯8条，人工编译4条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | --------------- |
+| 1    | [BTC跌破62000 USDT，24H跌幅2.09%](https://news.marsshare.cc/flash/20240509042342026752.html) | 人工，首页&发推 |
+| 2    | [Bitfinex: 减半以来比特币的波动率风险溢价已从 15% 跌至 2.5%](https://news.marsshare.cc/flash/20240509040731806635.html) | 人工，首页&发推 |
+| 3    | [CryptoQuant：以太坊的 Dencun 升级使 ETH 再次通胀](https://news.marsshare.cc/flash/20240509034045599418.html) | 人工，首页&发推 |
+| 4    | [美SEC反驳Ripple公司关于将20亿美元罚款减少至1000万美元的说法](https://news.marsshare.cc/flash/20240509025839280548.html) | 人工，首页&发推 |
+| 5    | [阿联酋第二大银行Emirates NBD子公司与Ctrl Alt签署RWA代币化协议](https://news.marsshare.cc/flash/20240509025655989646.html) |                 |
+| 6    | [美联储柯林斯：市场已经对美联储资产负债表行动进行了定价](https://news.marsshare.cc/flash/20240509012256164481.html) |                 |
+| 7    | [美国会议员提出《区块链诚信法案》，拟暂时禁止加密货币混币器](https://news.marsshare.cc/flash/20240509011607435244.html) |                 |
+| 8    | [Coinbase：NEON代币交易已面向德国用户开放](https://news.marsshare.cc/flash/20240508235526339664.html) |                 |
+
 ## 5月8日
 
 今日(05.08)编译快讯15条，人工编译6条
