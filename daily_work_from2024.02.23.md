@@ -22,6 +22,24 @@
 
 # 5月
 
+## 5月10日
+
+今日(05.10)编译快讯11条，人工编译4条
+
+| 序号 | 标题                                                         | 备注            |
+| :--- | :----------------------------------------------------------- | --------------- |
+| 1    | [Citadel Securities CEO：加密货币监管不明确仍然是一个问题](https://news.marsshare.cc/flash/20240510044354501073.html) |                 |
+| 2    | [以太坊L2 TVL为388.2亿美元，7日涨幅1.69%](https://news.marsshare.cc/flash/20240510043507181945.html) | 人工            |
+| 3    | [Uniswap手续费提高%0.1，带来每天超14.5万美元的可观收入](https://news.marsshare.cc/flash/20240510035908258902.html) | 人工，首页&发推 |
+| 4    | [盗取7100万美元的诈骗者与受害者联系索要其Telegram](https://news.marsshare.cc/flash/20240510034510739040.html) |                 |
+| 5    | [Euclid完成60 万美元种子前融资](https://news.marsshare.cc/flash/20240510030631992567.html) | 人工            |
+| 6    | [Hyperbolic推出PoSP协议解决去中心化AI网络信任挑战](https://news.marsshare.cc/flash/20240510023958917368.html) |                 |
+| 7    | [SUI跌至 1 美元，24H 跌幅 4.52%](https://news.marsshare.cc/flash/20240510021417167798.html) |                 |
+| 8    | [Arkham： 过去一个月，标记为 FTX 和 Alameda 的钱包共清算 9735 万美元](https://news.marsshare.cc/flash/20240510015749599828.html) |                 |
+| 9    | [币安被加拿大金融监管机构罚款430万美元](https://news.marsshare.cc/flash/20240510012344819113.html) | 人工            |
+| 10   | [摩根大通：美SEC若拒绝批准现货以太坊ETF将面临法律挑战并最终败诉](https://news.marsshare.cc/flash/20240510012137046532.html) |                 |
+| 11   | [美国注册加密证券平台Prometheum：智能合约审计后将提供机构客户托管服务](https://news.marsshare.cc/flash/20240510012002011599.html) |                 |
+
 ## 5月9日
 
 今日(05.09)编译快讯8条，人工编译4条
